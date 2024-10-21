@@ -217,4 +217,4 @@ plt.colorbar(label='Variable (unit)')
 plt.show()
 ```
 
-<img src="krig3.png" width = "1000" height = "440">
+<img src="krig3.png" width = "1250" height = "340">

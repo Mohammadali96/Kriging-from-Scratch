@@ -31,11 +31,11 @@ rang = 4
 ```
 
 ### Kriging Mathematics
-<img src="krig1.png" width = "800" height = "440">
+<img src="krig1.PNG" width = "800" height = "440">
 
 
 
-<img src="krig2.png" width = "800" height = "440">
+<img src="krig2.PNG" width = "800" height = "440">
 
 ### Making Matrix A and B
 
